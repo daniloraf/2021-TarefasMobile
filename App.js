@@ -4,7 +4,7 @@ import { Button, StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Meu primeiro Mobile App</Text>
+      <Text>Primeiro Aplicativo Mobile RN feito por DANILO RAFAEL</Text>
       <Button title="Já sei construir um mobile app" />
     </View>
   );
